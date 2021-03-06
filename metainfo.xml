@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="301F4F67-53C7-42AC-8367-815E39D2889A" version="0" availableOffline="1">
+<presentation guid="E383716C-454A-43F8-8182-5399D294870C" version="0" availableOffline="1">
 	<info>
 		<title>CVC word(learn to read)</title>
 		<description/>
 	</info>
-	<files index="id245" thumbnail="id372" totalSize="8911338">
+	<files index="id245" thumbnail="id372" totalSize="8912260">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
